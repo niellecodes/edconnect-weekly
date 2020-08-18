@@ -1,0 +1,19 @@
+h1{
+    font-family: cursive;
+    border: 20px;
+    border-color: black;
+    border-style: solid;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: aquamarine;
+    margin: 80px;
+}
+ul{
+    list-style: none;
+}
+p{
+    font-weight: 800;
+}
